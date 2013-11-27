@@ -18,3 +18,5 @@ C:\Users\admin2\Downloads\Dropbox\bootcamp\Christopher.Barratta\DogHouse\DogHous
 C:\Users\admin2\Downloads\Dropbox\bootcamp\Christopher.Barratta\DogHouse\DogHouse\bin\Debug\DAL.pdb
 C:\Users\admin2\Downloads\Dropbox\bootcamp\Mark.Kalgren\DogHouse\DogHouse\obj\Debug\DogHouse.exe
 C:\Users\admin2\Downloads\Dropbox\bootcamp\Mark.Kalgren\DogHouse\DogHouse\obj\Debug\DogHouse.pdb
+C:\Users\admin2\Desktop\repository\bootcamp\DogHouse\obj\Debug\DogHouse.exe
+C:\Users\admin2\Desktop\repository\bootcamp\DogHouse\obj\Debug\DogHouse.pdb
